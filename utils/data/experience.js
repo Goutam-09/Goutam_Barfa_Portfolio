@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Full-Stack Developer',
     company: "Dollop Infotech Private Ltd.",
-    duration: "(June 2023 - July 2024)"
+    duration: "(June 2023 - Present)"
   },
   {
     id: 2,
