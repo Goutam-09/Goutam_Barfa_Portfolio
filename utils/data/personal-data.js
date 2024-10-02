@@ -14,5 +14,5 @@ export const personalData = {
   leetcode: "",
   devUsername: "",
   resume: "https://drive.google.com/file/d/1omTq2BTeDxFaTGykLYIL7Y_EA7B20ccJ/view?usp=sharing",
-  skills: ['Java SE', 'Java EE', 'MySQL','Spring Boot','Spring MVC', 'Spring Data JPA','Web Services', 'RestFul APIs', 'Microservices', 'Angular' ]
+  skills: ['Java SE', 'Java EE', 'MySQL','Spring Boot','Spring MVC', 'Spring Data JPA','Web Services', 'RestFul APIs', 'Microservices', 'Angular', 'Jenkins', 'SonarQube' ]
 }
