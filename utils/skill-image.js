@@ -235,7 +235,7 @@ export const skillsImage = (skill) => {
       return postman;
     case 'jenkins':
       return jenkins;
-    case 'sonarQube':
+    case 'sonarqube':
       return sonarQube;
     default:
       break;
