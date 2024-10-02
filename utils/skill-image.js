@@ -236,7 +236,7 @@ export const skillsImage = (skill) => {
     case 'Jenkins':
       return 'Jenkins';
     case 'SonarQube:
-      return 'SonarQube;
+      return 'SonarQube';
     default:
       break;
   }
