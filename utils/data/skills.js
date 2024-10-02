@@ -9,6 +9,8 @@ export const skillsData = [
   'Git',
   'Bootstrap',
   'Docker',
+  'Jenkins',
+  'SonarQube',
   'PostMan',
   'MaterialUI',
   'HTML',
