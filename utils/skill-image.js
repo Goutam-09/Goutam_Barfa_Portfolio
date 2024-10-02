@@ -74,8 +74,8 @@ import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import spring from '/public/svg/skills/spring.svg';
 import postman from '/public/svg/skills/postman-icon.svg';
-import sonarQube from '/public/svg/skills/SonarQube.svg';
-import jenkins from '/public/svg/skills/Jenkins.svg';
+import sonarQube from '/public/svg/skills/sonarQube.svg';
+import jenkins from '/public/svg/skills/jenkins.svg';
 
 
 export const skillsImage = (skill) => {
