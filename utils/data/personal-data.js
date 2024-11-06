@@ -13,6 +13,6 @@ export const personalData = {
   stackOverflow: '',
   leetcode: "",
   devUsername: "",
-  resume: "https://drive.google.com/file/d/1LHGd6zoulI1fOuG5BUL-3fMd6JRe6yzh/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1ax7hjSyFk7Sde4zpN61OzCHIyTwJfhXw/view?usp=sharing",
   skills: ['Java SE', 'Java EE', 'MySQL','Spring Boot','Spring MVC', 'Spring Data JPA','Web Services', 'RestFul APIs', 'Microservices', 'Angular', 'Jenkins', 'SonarQube' ]
 }
